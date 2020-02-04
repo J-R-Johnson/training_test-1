@@ -8,3 +8,5 @@ Here is a list:
 * kiwi
 * banana
 * apple
+* strawberry
+* peach
