@@ -10,6 +10,7 @@ Here is a list:
 * apple
 * strawberry
 * peach
+* loops
 
 ## New documentation
 
