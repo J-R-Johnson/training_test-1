@@ -3,7 +3,7 @@ Training repository for NCEAS workshop
 
 This is a place to practice git and R and Markdown.
 
-Here is a list:
+Here is a list of fruit/froot:
 
 * kiwi
 * banana
